@@ -19,25 +19,26 @@
 
 JS example code:
 
-![](images\javascript.png)
+![egJS](https://github.com/wanghuiyt/Monokai-Lite/blob/main/images/javascript.png)
 
+<br/>
 
 Python example code:
 
-![](images\python.png)
+![egPY](https://github.com/wanghuiyt/Monokai-Lite/blob/main/images/python.png)
 
 <br/>
 
 Golang example code:
 
-![](images\golang.png)
+![egGO](https://github.com/wanghuiyt/Monokai-Lite/blob/main/images/golang.png)
 
 
 <br/>
 
 Java example code:
 
-![](images\java.png)
+![egJA](https://github.com/wanghuiyt/Monokai-Lite/blob/main/images/java.png)
 
 
 
