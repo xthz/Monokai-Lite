@@ -1,6 +1,6 @@
 # Monokai Lite
 
-> Note: This is the original Monokai theme, only the messy lines and italics have been modified
+> Note: This is a concise theme based on Monokai
 
 
 <br/><br/>
