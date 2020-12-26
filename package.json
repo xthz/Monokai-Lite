@@ -1,0 +1,29 @@
+{
+    "name": "monokai-lite",
+    "displayName": "Monokai Lite",
+    "description": "This is a theme based on Monokai but without extra underline or italics.",
+    "version": "0.0.2",
+    "icon": "images/favicon.ico",
+    "publisher": "HarveyWang",
+    "license": "MIT",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Lite without underline",
+                "uiTheme": "vs-dark",
+                "path": "./themes/without_underline.json"
+            },
+            {
+                "label": "Monokai Lite without underline&italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/without_underline_italic.json"
+            }
+        ]
+    }
+}
