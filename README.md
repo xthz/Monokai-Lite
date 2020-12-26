@@ -19,30 +19,29 @@
 
 JS example code:
 
-<!-- ![egJS](https://github.com/wanghuiyt/Monokai-Lite/blob/main/images/javascript.png) -->
-[egJS](images/javascript.png)
+![egJS](https://raw.githubusercontent.com/wanghuiyt/Monokai-Lite/main/images/javascript.png)
+
+
 
 <br/>
 
 Python example code:
 
-<!-- ![egPY](https://github.com/wanghuiyt/Monokai-Lite/blob/main/images/python.png) -->
-![egPY](images/python.png)
+![egPY](https://raw.githubusercontent.com/wanghuiyt/Monokai-Lite/main/images/python.png)
+
 
 <br/>
 
 Golang example code:
 
-<!-- ![egGO](https://github.com/wanghuiyt/Monokai-Lite/blob/main/images/golang.png) -->
-![egGO](images/golang.png)
+![egGO](https://raw.githubusercontent.com/wanghuiyt/Monokai-Lite/main/images/golang.png)
 
 
 <br/>
 
 Java example code:
 
-<!-- ![egJA](https://github.com/wanghuiyt/Monokai-Lite/blob/main/images/java.png) -->
-![egJA](images/java.png)
+![egJA](https://raw.githubusercontent.com/wanghuiyt/Monokai-Lite/main/images/java.png)
 
 
 
