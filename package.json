@@ -6,6 +6,10 @@
     "icon": "images/favicon.ico",
     "publisher": "HarveyWang",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wanghuiyt/Monokai-Lite.git"
+    },
     "engines": {
         "vscode": "*"
     },
